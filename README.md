@@ -101,6 +101,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 44 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF | Nov 22 - Dec 1 |
 | 45 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF | Nov 22 - Dec 1 |
 | 46 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
+| 47 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. 🚀 | 70% OFF with code **BLACKFRIDAY70** | Nov 23 - Dec 3 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
